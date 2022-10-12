@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seher.
-- 👀 I’m working in data science, machine learning and quantum computing (Qiskit).
-- 🌱 I’m currently learning big data analysis stack (Elasticsearch, Hadoop, MapReduce, Spark, Flink).
-- 💞️ I’m looking to collaborate on machine learning, natural language processing and big data processing projects.
+- 👀 I’m working in data science, machine learning and quantum computing projects.
+- 🌱 I’m currently practising on cloud architecture (AWS) and big data analysis stack (Elasticsearch, Hadoop, MapReduce, Spark, Flink).
+- 💞️ I’m looking forward to collaborate on relevant projects.
 - 📫 How to reach me: https://www.linkedin.com/in/s-ugurcuklu/
 
 <!---
